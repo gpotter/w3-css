@@ -9,7 +9,7 @@ $(document).ready(function(){
     w3-sidenav
     w3-topnav
     */
-  $("w3-opennav").click(function(){
+  $(".w3-opennav").click(function(){
     $("#main").css('margin-left': '25%');
     $(".w3-sidenav").css('width': '25%', 'display': 'block');
     $(".w3-open").css('display': 'none');
