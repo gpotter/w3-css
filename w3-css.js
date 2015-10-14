@@ -1,5 +1,6 @@
 /*Don't forget to add jQuery into your site or page BEFORE this script*/
 $(document).ready(function(){
+ console.log("Hello world, and hello to you. Thanks for coming by. Script is loaded.");
   /*
   NavButtons:
     w3-closenav
